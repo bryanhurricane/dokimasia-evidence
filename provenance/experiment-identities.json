@@ -1,0 +1,1503 @@
+{
+ "20261002-191313": {
+  "phase": "proposals",
+  "case_set": null,
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "f750db302542"
+  ],
+  "config_hash": [
+   "8eabd1619a18"
+  ]
+ },
+ "20261002-192235": {
+  "phase": "proposals",
+  "case_set": null,
+  "guarded": false,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "fe3821f9c9b9"
+  ],
+  "config_hash": [
+   "0396bcd6b332"
+  ]
+ },
+ "20261002-195740": {
+  "phase": "proposals",
+  "case_set": null,
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "41d0604b5fac"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f"
+  ]
+ },
+ "20261002-205900": {
+  "phase": "proposals",
+  "case_set": null,
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "21d06b632edd"
+  ],
+  "config_hash": [
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261003-135848": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "8eabd1619a18",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f",
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261003-172137": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "0396bcd6b332",
+   "0ddee85da082",
+   "140476c1e6fc",
+   "237bac8d26c3",
+   "4b26b744ebaa",
+   "5cda25c6f10d",
+   "aabcba945fcf",
+   "db7bc719560b",
+   "e41c77756f34"
+  ]
+ },
+ "20261003-212901": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "0396bcd6b332",
+   "0ddee85da082",
+   "140476c1e6fc",
+   "237bac8d26c3",
+   "4b26b744ebaa",
+   "5cda25c6f10d",
+   "aabcba945fcf",
+   "db7bc719560b",
+   "e41c77756f34"
+  ]
+ },
+ "20261004-142417": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "8eabd1619a18",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f",
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261004-153740": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "0396bcd6b332",
+   "0ddee85da082",
+   "140476c1e6fc",
+   "237bac8d26c3",
+   "4b26b744ebaa",
+   "5cda25c6f10d",
+   "aabcba945fcf",
+   "db7bc719560b",
+   "e41c77756f34"
+  ]
+ },
+ "20261004-172052": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.34.4"
+  ],
+  "commit": [
+   "2eb669487083"
+  ],
+  "config_hash": [
+   "0396bcd6b332",
+   "0ddee85da082",
+   "140476c1e6fc",
+   "237bac8d26c3",
+   "4b26b744ebaa",
+   "5cda25c6f10d",
+   "aabcba945fcf",
+   "db7bc719560b",
+   "e41c77756f34"
+  ]
+ },
+ "20261005-090148": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0bb879149ff9"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "8eabd1619a18",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f",
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261005-100137": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0d9b1d30bb4e"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "8eabd1619a18",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f",
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261005-111341": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": false,
+  "sanitizer": false,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "167e480d722c"
+  ],
+  "config_hash": [
+   "09df5e12dbb0",
+   "5b4a26dba2ad",
+   "5dcbc43687b3",
+   "77b65bdb67be",
+   "8eabd1619a18",
+   "9ad44b168ef0",
+   "9dfd737ac22f",
+   "a737faf6603f",
+   "bd58eba0d2cc"
+  ]
+ },
+ "20261012-163114": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-164548": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-170011": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-171244": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-172344": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-184036": {
+  "phase": null,
+  "case_set": null,
+  "guarded": true,
+  "sanitizer": null,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "config@llama3.1",
+   "config@qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "21c327f24b44",
+   "af920295245f"
+  ]
+ },
+ "20261012-185451": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "2e5ac6ef3403",
+   "d73d1d8e44d4"
+  ]
+ },
+ "20261012-192525": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "2e5ac6ef3403",
+   "d73d1d8e44d4"
+  ]
+ },
+ "20261012-194009": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "2e5ac6ef3403",
+   "d73d1d8e44d4"
+  ]
+ },
+ "20261012-195459": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": null,
+  "temperature": null,
+  "models": [
+   "llama3.1",
+   "qwen2.5:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "0ee16ab948b0"
+  ],
+  "config_hash": [
+   "2e5ac6ef3403",
+   "d73d1d8e44d4"
+  ]
+ },
+ "20261012-213709": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261012-225549": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261013-001053": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261013-012145": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261013-022339": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261013-072636": {
+  "phase": null,
+  "case_set": null,
+  "guarded": true,
+  "sanitizer": null,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "baseline_context@llama3.1",
+   "baseline_context@gemma3:4b",
+   "baseline_context@qwen2.5:7b",
+   "baseline_context@mistral:7b",
+   "baseline_context@gemma2:9b",
+   "baseline_context@mistral-nemo:12b",
+   "baseline_context@qwen2.5:14b",
+   "baseline_context@phi4:14b",
+   "baseline_context@deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "1d70084e81ba",
+   "46363c39b45f",
+   "57603ab19530",
+   "7f89a75f6cf3",
+   "957c3635634c",
+   "978487695093",
+   "d2813a6d6eb0",
+   "d5861bd6934c",
+   "e96cf4f1467f"
+  ]
+ },
+ "20261013-091307": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-105638": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-121053": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-131222": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-141616": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-204353": {
+  "phase": null,
+  "case_set": null,
+  "guarded": true,
+  "sanitizer": null,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "security_brief_context@llama3.1",
+   "security_brief_context@gemma3:4b",
+   "security_brief_context@qwen2.5:7b",
+   "security_brief_context@mistral:7b",
+   "security_brief_context@gemma2:9b",
+   "security_brief_context@mistral-nemo:12b",
+   "security_brief_context@qwen2.5:14b",
+   "security_brief_context@phi4:14b",
+   "security_brief_context@deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "4a9a2734233a",
+   "553936f8f990",
+   "566332abb624",
+   "6667ebc28526",
+   "6a6b865651d4",
+   "adef86e29f22",
+   "e40933cc5e0f",
+   "f19cb8f799cd",
+   "fee13a396d57"
+  ]
+ },
+ "20261013-221359": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261013-233855": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261014-004423": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261014-015837": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261014-034638": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261014-091157": {
+  "phase": null,
+  "case_set": null,
+  "guarded": true,
+  "sanitizer": null,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "irrelevant_context@llama3.1",
+   "irrelevant_context@gemma3:4b",
+   "irrelevant_context@qwen2.5:7b",
+   "irrelevant_context@mistral:7b",
+   "irrelevant_context@gemma2:9b",
+   "irrelevant_context@mistral-nemo:12b",
+   "irrelevant_context@qwen2.5:14b",
+   "irrelevant_context@phi4:14b",
+   "irrelevant_context@deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.35.1"
+  ],
+  "commit": [
+   "3f9cf08a8f10"
+  ],
+  "config_hash": [
+   "14445e73358f",
+   "2ce0d96dd14b",
+   "3343eb89a82b",
+   "3cc0f1113e5d",
+   "7d2f29899019",
+   "a8657d823bf2",
+   "aa4e58dd3545",
+   "b33e2b2c4419",
+   "cba3637eac4d"
+  ]
+ },
+ "20261014-175453": {
+  "phase": "proposals",
+  "case_set": "v1",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "12d8a746b576",
+   "e3126da59d47"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ },
+ "20261014-200007": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "57cfa16d8e1f"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ },
+ "20261014-212015": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "57cfa16d8e1f"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ },
+ "20261014-224826": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "57cfa16d8e1f"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ },
+ "20261014-234736": {
+  "phase": "proposals",
+  "case_set": "v2",
+  "guarded": true,
+  "sanitizer": true,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "llama3.1",
+   "gemma3:4b",
+   "qwen2.5:7b",
+   "mistral:7b",
+   "gemma2:9b",
+   "mistral-nemo:12b",
+   "qwen2.5:14b",
+   "phi4:14b",
+   "deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "57cfa16d8e1f"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ },
+ "20261015-142713": {
+  "phase": null,
+  "case_set": null,
+  "guarded": true,
+  "sanitizer": null,
+  "seed": 42,
+  "temperature": 0.0,
+  "models": [
+   "security_brief_b3_context@llama3.1",
+   "security_brief_b3_context@gemma3:4b",
+   "security_brief_b3_context@qwen2.5:7b",
+   "security_brief_b3_context@mistral:7b",
+   "security_brief_b3_context@gemma2:9b",
+   "security_brief_b3_context@mistral-nemo:12b",
+   "security_brief_b3_context@qwen2.5:14b",
+   "security_brief_b3_context@phi4:14b",
+   "security_brief_b3_context@deepseek-r1:14b"
+  ],
+  "ollama": [
+   "0.40.4"
+  ],
+  "commit": [
+   "57cfa16d8e1f"
+  ],
+  "config_hash": [
+   "107357a276ec",
+   "5107304afa8f",
+   "594289848086",
+   "a0daf04cfdd9",
+   "b48ae705879a",
+   "c6cbc5f6dbd4",
+   "cc268e7aae37",
+   "d315cee37787",
+   "d9662aa26192"
+  ]
+ }
+}

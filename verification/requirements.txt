@@ -1,0 +1,2 @@
+# recompute.py uses the Python 3.8+ standard library only (no third-party packages).
+# PyYAML is NOT required: case definitions are staged as JSON (phase-1/cases/attack-spec.json).

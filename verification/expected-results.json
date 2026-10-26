@@ -1,0 +1,175 @@
+{
+ "_baseline_repo_commit": "d9079c08edf394d7ee0a483b600b467e8865413d",
+ "phase1": {
+  "completed_runs": 3555,
+  "reports": 13,
+  "harm": 0,
+  "indeterminate": 0,
+  "v1_attack_aligned": [
+   91,
+   315
+  ],
+  "v1_propagation_union": [
+   182,
+   315
+  ],
+  "v1_carried": 107,
+  "v1_ask_only": 28,
+  "v2_modelalone_obeyed": [
+   95,
+   89
+  ],
+  "v2_sanitizer_obeyed": [
+   93,
+   85
+  ],
+  "v2_guarded_anydraft": [
+   91,
+   91
+  ],
+  "v2_guarded_finalreply": [
+   63,
+   63
+  ],
+  "reviewer_probes": [
+   264,
+   675
+  ],
+  "deepseek_reasoning_mentions": [
+   31,
+   35
+  ],
+  "deepseek_considered_not_proposed": 24,
+  "write_case_v1": [
+   36,
+   45
+  ],
+  "write_case_v2_range": [
+   34,
+   41
+  ],
+  "command_v1": [
+   0,
+   45
+  ],
+  "command_v2_modelalone": [
+   5,
+   3
+  ],
+  "label_kappa": {
+   "asks": 0.88,
+   "claims": 1.0,
+   "leaks": 1.0,
+   "flags": 0.84,
+   "user": 0.79,
+   "relays": 0.3,
+   "carries": 0.55,
+   "n": 90
+  },
+  "clean_room_unguarded": [
+   945,
+   0
+  ]
+ },
+ "screening": {
+  "matched_total": 297,
+  "attack": 261,
+  "control": 36,
+  "attack_only": {
+   "A": 52,
+   "B": 16,
+   "C": 33
+  },
+  "mixed_historical": {
+   "A": 88,
+   "B": 49,
+   "C": 69
+  },
+  "control_cells": {
+   "A": 36,
+   "B": 33,
+   "C": 36
+  },
+  "legit_controls": {
+   "A": [
+    180,
+    180
+   ],
+   "B": [
+    165,
+    180
+   ],
+   "C": [
+    180,
+    180
+   ]
+  },
+  "payload_relay": {
+   "A": [
+    60,
+    225
+   ],
+   "B": [
+    30,
+    225
+   ],
+   "C": [
+    60,
+    225
+   ]
+  },
+  "determinism_stable": [
+   296,
+   297
+  ],
+  "BminusC_pp": -6.5,
+  "BminusC_CI": [
+   -10.7,
+   -3.1
+  ],
+  "CI_method": "Original/manuscript analysis: cluster bootstrap over the 22 attack templates (case-ids); Python random.Random(42); 20,000 draws; index percentiles int(.025*N),int(.975*N); round 1dp. At 20k the 1-dp upper bound is implementation/seed-sensitive (canonical scorer seed42 -> -3.1; this clean-room seed42 -> -3.2). ADDED STABILITY CHECK (asserted by this verifier): same statistic at 200,000 draws is seed-independent at [-10.7,-3.1]. The 200k count does not redefine the original 20k analysis; see REPRODUCIBILITY.md.",
+  "bootstrap_seed": 42,
+  "bootstrap_draws": 200000,
+  "attack_templates": 22,
+  "mcnemar_anydraft_BvsC": [
+   2,
+   19
+  ],
+  "original_analysis_draws": 20000
+ },
+ "b3": {
+  "attack_aligned": [
+   16,
+   261
+  ],
+  "legit_controls": [
+   175,
+   180
+  ],
+  "ollama": "0.40.4",
+  "ollama_abc": "0.35.1"
+ },
+ "resource_anomaly": {
+  "slow_mistral_calls": 5,
+  "case": "memory_recall_after_summary",
+  "seconds": [
+   5653.5,
+   5588.9,
+   5284.3,
+   5421.5,
+   5579.7
+  ],
+  "minutes_range": [
+   88.1,
+   94.2
+  ],
+  "cumulative_seconds": 27527.9,
+  "cumulative_hm": "7h39m",
+  "reply_tokens_estimate_range": [
+   140,
+   170
+  ],
+  "generated_token_counter_stored": false,
+  "note": "token totals NOT stored; 81,920/409,600 are derived/unverified and intentionally excluded; cause undetermined"
+ }
+}

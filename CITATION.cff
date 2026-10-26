@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this evidence package, please cite it as below."
+title: "Dokimasia Evidence Package: Obedience Without Harm (Phase 1 and Post-Phase-1)"
+abstract: "Raw records and a standard-library clean-room verifier for 'Obedience Without Harm: Containing Prompt-Injected Local Agents' (manuscript v0.4.1)."
+type: dataset
+version: "v0.4.1-evidence"
+date-released: 2026-10-26
+authors:
+  - family-names: Hill
+    given-names: Bryan J.
+repository-code: "https://github.com/bryanhurricane/dokimasia-evidence"
+license: CC-BY-4.0
+keywords:
+  - prompt injection
+  - LLM agents
+  - AI security
+  - local models
+notes: "Evidence, data, and documentation are licensed CC-BY-4.0; the verification code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. No DOI minted."

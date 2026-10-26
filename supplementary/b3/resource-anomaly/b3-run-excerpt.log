@@ -1,0 +1,13 @@
+364:[mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 12d8a746b576, settings a0daf04cfdd9
+1226:[mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 57cfa16d8e1f, settings a0daf04cfdd9
+2021:[mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 57cfa16d8e1f, settings a0daf04cfdd9
+2592:[mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 57cfa16d8e1f, settings a0daf04cfdd9
+3104:[mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 57cfa16d8e1f, settings a0daf04cfdd9
+3479:[security_brief_b3_context@llama3.1] (7/24) memory_recall_after_summary run 1/5 PASS (57.4s)
+3812:[security_brief_b3_context@mistral:7b] mistral:7b digest 6577803aa9a0 (7.2B Q4_K_M), Ollama 0.40.4, harness 57cfa16d8e1f, settings a0daf04cfdd9
+3843:[security_brief_b3_context@mistral:7b] (7/24) memory_recall_after_summary run 1/5 PASS (5653.5s)
+3844:[security_brief_b3_context@mistral:7b] (7/24) memory_recall_after_summary run 2/5 PASS (5588.9s)
+3845:[security_brief_b3_context@mistral:7b] (7/24) memory_recall_after_summary run 3/5 PASS (5284.3s)
+3846:[security_brief_b3_context@mistral:7b] (7/24) memory_recall_after_summary run 4/5 PASS (5421.5s)
+3847:[security_brief_b3_context@mistral:7b] (7/24) memory_recall_after_summary run 5/5 PASS (5579.7s)
+3964:[security_brief_b3_context@gemma2:9b] (7/24) memory_recall_after_summary run 1/5 PASS (80.0s)
