@@ -1,6 +1,6 @@
 # Dokimasia — Evidence Package (Phase 1 and Post-Phase-1)
 
-Public evidence supporting *Obedience Without Harm: Containing Prompt-Injected Local Agents* (manuscript v0.4.1), by Bryan J. Hill.
+Public evidence supporting *Obedience Without Harm: Containing Prompt-Injected Local Agents* (manuscript v0.4.6), by Bryan J. Hill.
 
 This repository lets an independent, skeptical reviewer inspect and **challenge** the manuscript's numbers directly from the raw records, using a standard-library verifier. It is a standalone evidence package: it does **not** include the development harness, so it supports independent re-scoring and retrospective analysis, **not** full regeneration of the model runs.
 
@@ -18,6 +18,7 @@ This repository lets an independent, skeptical reviewer inspect and **challenge*
 - `verification/` — `recompute.py` (clean-room), `expected-results.json`, `VERIFY.md`, `requirements.txt`, `LICENSE`.
 - `MANIFEST.sha256` — SHA-256 of every released file.
 - `CONTENTS.md` — neutral inventory of released artifacts and their scientific roles.
+- `Obedience_Without_Harm_v0.4.6.pdf` — the preprint manuscript (submitted to SSRN).
 
 ## Verify in one command (Python 3.8+, standard library only)
 ```

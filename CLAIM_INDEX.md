@@ -1,5 +1,5 @@
 # Claim-to-evidence index
-Each material claim in *Obedience Without Harm* v0.4.1 mapped to its staged evidence, the `recompute.py` check that
+Each material claim in *Obedience Without Harm* v0.4.6 mapped to its staged evidence, the `recompute.py` check that
 reproduces it, the experimental population, and known limitations. Run `python3 verification/recompute.py`.
 Integrity ≠ clearance (see RELEASE_STATUS.md). Primary = Phase 1; Supplementary = post-Phase-1 (do not pool).
 

@@ -15,5 +15,6 @@
 | `README.md`, `RELEASE_STATUS.md`, `RELEASE_NOTES.md`, `CITATION.cff`, `THIRD_PARTY_MATERIALS.md` | Release documentation. |
 | `LICENSE`, `verification/LICENSE` | CC BY 4.0 (evidence) and Apache-2.0 (verifier). |
 | `MANIFEST.sha256` | SHA-256 of every released file. |
+| `Obedience_Without_Harm_v0.4.6.pdf` | The preprint manuscript (v0.4.6), submitted to SSRN. |
 
 This repository contains only the released scientific payload. The development harness and internal governance/IP documentation are not included.

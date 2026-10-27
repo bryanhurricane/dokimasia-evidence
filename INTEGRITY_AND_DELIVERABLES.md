@@ -1,6 +1,6 @@
 # Integrity & deliverables — Dokimasia evidence package
 
-Public evidence release for *Obedience Without Harm* (manuscript v0.4.1). Built from the research analysis baseline `d9079c0`.
+Public evidence release for *Obedience Without Harm* (manuscript v0.4.6). Built from the research analysis baseline `d9079c0`.
 
 ## Verification results
 `python3 verification/recompute.py` → **PASS (28 checks, 0 fail; exit 0)**. Clean-room re-score vs stored
@@ -33,4 +33,4 @@ staged raw/derived copies are **byte-identical** to their recorded source SHA-25
 Evidence, data, and documentation: **CC BY 4.0** (`LICENSE`). Verification code (`verification/`): **Apache-2.0** (`verification/LICENSE`). The repository-level license does not override the per-directory license for `verification/`. No DOI minted.
 
 ## Confirmation
-The original Dokimasia repository (HEAD `d9079c0`) and the v0.4.1 manuscript were **not modified**. This public repository is a fresh-history distribution containing only the released scientific payload.
+The original Dokimasia repository (HEAD `d9079c0`) and the v0.4.6 manuscript were **not modified**. This public repository is a fresh-history distribution containing only the released scientific payload.

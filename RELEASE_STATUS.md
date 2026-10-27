@@ -1,6 +1,6 @@
 # Release status
 
-**Public evidence release** for *Obedience Without Harm: Containing Prompt-Injected Local Agents*, manuscript v0.4.1.
+**Public evidence release** for *Obedience Without Harm: Containing Prompt-Injected Local Agents*, manuscript v0.4.6.
 
 - Repository: `bryanhurricane/dokimasia-evidence` (public) — a fresh-history evidence repository.
 - Release identity: git tag `v0.4.1-evidence` together with `MANIFEST.sha256`. The release is identified by tag and manifest checksums rather than by an embedded commit SHA.

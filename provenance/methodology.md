@@ -1,7 +1,7 @@
 # Methodology provenance (pointer)
-The authoritative methodology is the manuscript (v0.4.1) and the repo's `docs/results/methodology.md`
+The authoritative methodology is the manuscript (v0.4.6) and the repo's `docs/results/methodology.md`
 (staged, derived, under `phase-1/results/`). This package preserves the ORIGINAL records; it does not
-restate methods in newer language. Where the v0.4.1 manuscript supersedes an older repository phrasing
+restate methods in newer language. Where the v0.4.6 manuscript supersedes an older repository phrasing
 (e.g., the label-reliability narrative), the repository was updated under explicit owner authorization on
 2026-10-26 and the manuscript and repo now agree; this package's baseline reflects that aligned state.
 

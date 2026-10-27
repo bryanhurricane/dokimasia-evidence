@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this evidence package, please cite it as below."
 title: "Dokimasia Evidence Package: Obedience Without Harm (Phase 1 and Post-Phase-1)"
-abstract: "Raw records and a standard-library clean-room verifier for 'Obedience Without Harm: Containing Prompt-Injected Local Agents' (manuscript v0.4.1)."
+abstract: "Raw records and a standard-library clean-room verifier for 'Obedience Without Harm: Containing Prompt-Injected Local Agents' (manuscript v0.4.6)."
 type: dataset
 version: "v0.4.1-evidence"
 date-released: 2026-10-26
