@@ -1,8 +1,10 @@
-# Dokimasia — Evidence Package (Phase 1 and Post-Phase-1)
+# Dokimasia — *Obedience Without Harm*: paper + reproducible evidence
 
-Public evidence supporting *Obedience Without Harm: Containing Prompt-Injected Local Agents* (manuscript v0.4.6), by Bryan J. Hill.
+> **📄 Start with the paper:** **[Obedience Without Harm: Containing Prompt-Injected Local Agents](Obedience_Without_Harm_v0.4.6.pdf)** — preprint v0.4.6, by Bryan J. Hill.
+>
+> It is a **measurement-framework** paper first: it separates *obedience* (does a prompt-injected agent propose the attacker's action?) from *harm* (does anything actually happen to files, secrets, or network?), using deterministic, state-based verification and an analysis of authorization failures. The nine-model experiment and its counts are the **evidence for that framework**, not the whole contribution — read the manuscript for the theory, methodology, validity arguments, and limitations the files below only summarize.
 
-This repository lets an independent, skeptical reviewer inspect and **challenge** the manuscript's numbers directly from the raw records, using a standard-library verifier. It is a standalone evidence package: it does **not** include the development harness, so it supports independent re-scoring and retrospective analysis, **not** full regeneration of the model runs.
+This repository is the paper's **evidence package**. It lets an independent, skeptical reviewer inspect and **challenge** the manuscript's numbers directly from the raw records, using a standard-library verifier. It does **not** include the development harness, so it supports independent re-scoring and retrospective analysis, **not** full regeneration of the model runs.
 
 - Release `v0.4.1-evidence` (see `RELEASE_NOTES.md`), identified by its git tag and `MANIFEST.sha256`. Built from the research analysis baseline `d9079c0`.
 - Licenses: evidence, data, and documentation under **CC BY 4.0** (`LICENSE`); the verification code under **Apache-2.0** (`verification/LICENSE`).
