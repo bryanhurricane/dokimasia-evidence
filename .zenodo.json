@@ -1,0 +1,23 @@
+{
+  "upload_type": "dataset",
+  "title": "Dokimasia Evidence Package: Obedience Without Harm (Phase 1 and Post-Phase-1)",
+  "version": "v0.4.6-evidence",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Hill, Bryan J.",
+      "orcid": "0009-0005-2311-0813"
+    }
+  ],
+  "description": "Raw records and a Python standard-library clean-room verifier for the study \"Obedience Without Harm: Containing Prompt-Injected Local Agents\" (manuscript v0.4.6). Contains the Phase 1 decoy-injection case definitions, raw per-run reports, screening and B3 supplementary records, provenance and data-dictionary documentation, a SHA-256 manifest, and verification/recompute.py, which independently re-derives the reported statistics from the raw records (28 assertion checks, 0 failures). Evidence, data, and documentation are licensed CC-BY-4.0; the verifier code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. Release identity is the Git tag plus the MANIFEST.sha256 fingerprint; no commit SHA is embedded in any file.",
+  "keywords": [
+    "prompt injection",
+    "LLM agents",
+    "AI security",
+    "local models",
+    "agentic AI",
+    "air-gapped systems",
+    "reproducibility"
+  ]
+}

@@ -3,11 +3,12 @@ message: "If you use this evidence package, please cite it as below."
 title: "Dokimasia Evidence Package: Obedience Without Harm (Phase 1 and Post-Phase-1)"
 abstract: "Raw records and a standard-library clean-room verifier for 'Obedience Without Harm: Containing Prompt-Injected Local Agents' (manuscript v0.4.6)."
 type: dataset
-version: "v0.4.1-evidence"
-date-released: 2026-10-26
+version: "v0.4.6-evidence"
+date-released: 2026-10-29
 authors:
   - family-names: Hill
     given-names: Bryan J.
+    orcid: "https://orcid.org/0009-0005-2311-0813"
 repository-code: "https://github.com/bryanhurricane/dokimasia-evidence"
 license: CC-BY-4.0
 keywords:
@@ -15,4 +16,6 @@ keywords:
   - LLM agents
   - AI security
   - local models
-notes: "Evidence, data, and documentation are licensed CC-BY-4.0; the verification code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. No DOI minted."
+# After Zenodo mints the DOI, add it here (concept DOI = always-latest):
+#   doi: 10.5281/zenodo.XXXXXXX
+notes: "Evidence, data, and documentation are licensed CC-BY-4.0; the verification code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. DOI to be added after first Zenodo release."
