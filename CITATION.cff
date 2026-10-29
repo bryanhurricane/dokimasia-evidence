@@ -11,11 +11,17 @@ authors:
     orcid: "https://orcid.org/0009-0005-2311-0813"
 repository-code: "https://github.com/bryanhurricane/dokimasia-evidence"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23782198
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23782198
+    description: "Concept DOI (all versions; always resolves to the latest release)"
+  - type: doi
+    value: 10.5281/zenodo.23782199
+    description: "Version DOI (this release, v0.4.6-evidence)"
 keywords:
   - prompt injection
   - LLM agents
   - AI security
   - local models
-# After Zenodo mints the DOI, add it here (concept DOI = always-latest):
-#   doi: 10.5281/zenodo.XXXXXXX
-notes: "Evidence, data, and documentation are licensed CC-BY-4.0; the verification code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. DOI to be added after first Zenodo release."
+notes: "Evidence, data, and documentation are licensed CC-BY-4.0; the verification code in verification/ is licensed Apache-2.0 (see verification/LICENSE). Built from research analysis baseline d9079c0. Archived on Zenodo; cite the concept DOI 10.5281/zenodo.23782198."
